@@ -4,8 +4,10 @@ Allows user to select two folders of line stimuli and cycle between permutations
 
 ## Instructions
 1. Download MatchProgram Folder
-2. On Windows OS, Select: ImageCombiner_WINDOWS.exe
-3. Select: MoreInfo >Run-Anyway
+2. 
+    On Windows OS, Select: ImageCombiner_WINDOWS.exe
+    On macOS, Select: ImageCombiner_macOS.exe
+3. On Windows Security Message Select: MoreInfo >Run-Anyway
 4. Click "Select Top Folder" and select folder with top half line stimuli
 5. Click "Select Bottom Folder" and select folder with top half line stimuli
 
