@@ -45,5 +45,5 @@ V1.2: CombineGallery_v1.py
 V2: Combine_macos.py
 V2.1: Combine_Final
 
-Current Exerperimental Version: Combine_Test.py
+Current Experimental Version: Combine_Test.py
 
