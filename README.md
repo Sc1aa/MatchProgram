@@ -2,6 +2,8 @@
 
 Allows user to select two folders of line stimuli and cycle between permutations of stimuli from folder 1 and folder 2 placed on top of each other. Includes option to save and view as gallery.
 
+[Github Link](https://github.com/Sc1aa/MatchProgram)
+
 ## Instructions
 1. Download MatchProgram Folder
 2. 
