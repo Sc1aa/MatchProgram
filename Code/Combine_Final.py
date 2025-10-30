@@ -1,5 +1,6 @@
 import os
 import sys
+import PIL
 from tkinter import *
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
@@ -18,6 +19,9 @@ def clear_terminal():
         _ = os.system('clear')
 
 clear_terminal()
+
+# Confirm PIL
+print(PIL.__version__)
 
 # --Application--
 class ImageCombinerApp:

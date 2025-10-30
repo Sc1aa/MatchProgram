@@ -19,7 +19,10 @@ def clear_terminal():
 
 clear_terminal()
 
-# Application
+# Confirm PIL
+print(PIL.__version__)
+
+# --Application--
 class ImageCombinerApp:
     def __init__(self, root):
         self.root = root
@@ -184,7 +187,7 @@ class ImageCombinerApp:
         self.info_label.config(text=f"Grid View — Top Index {self.current_top}, Bottom Index {self.current_bottom}")
 
     def show_stored(self):
-        if not self.combine_images:  # Updated from combine_images to combined_images
+        if not self.combine_images: 
             return
 
         # Create grid canvas if it doesn't exist
