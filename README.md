@@ -8,7 +8,7 @@ Allows user to select two folders of line stimuli and cycle between permutations
 1. Download MatchProgram Folder
 2. 
     On Windows OS, Select: ImageCombiner_WINDOWS.exe
-    On macOS, Select: ImageCombiner_macOS.exe
+    On macOS, Select: ImageCombiner_macOS.app
 3. On Windows Security Message Select: MoreInfo >Run-Anyway
 4. Click "Select Top Folder" and select folder with top half line stimuli
 5. Click "Select Bottom Folder" and select folder with top half line stimuli
@@ -41,6 +41,9 @@ For whatever reason, running the application from Combine_Final.py out of VSCode
 
 Inorder to make this accessible online, the TKINTER interface would need to be changed.
 
+## Known Bugs
+macOS not co-operating generally, compiled app still doesn't work
+
 # Changelog
 V1: Combine.py
 V1.1: CombineGallery_v0.py
@@ -50,4 +53,5 @@ V2: Combine_macos.py
 V2.1: Combine_Final
 
 Current Experimental Version: Combine_Test.py
+
 
